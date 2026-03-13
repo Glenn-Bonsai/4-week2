@@ -3,6 +3,6 @@ import os
 
 load_dotenv()
 
-key = os.getenv("OPENAI_API_KEY")
+key = os.getenv("MY_SECRET_KEY")
 
 print(key)

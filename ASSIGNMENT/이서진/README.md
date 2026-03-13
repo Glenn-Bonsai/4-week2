@@ -1,1 +1,1 @@
-![2주차과제](screenshot-2026-03-13.png)
+![2주차과제](https://github.com/user-attachments/assets/bdc01722-b83e-4de4-8266-f317cb07b413)
